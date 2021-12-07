@@ -1,3 +1,13 @@
+# Flutter Task Manager Application Using GetX State Management
+
+![alt text](./snapshots/1.png)
+![alt text](./snapshots/2.png)
+![alt text](./snapshots/3.png)
+![alt text](./snapshots/4.png)
+![alt text](./snapshots/5.png)
+![alt text](./snapshots/6.png)
+![alt text](./snapshots/7.png)
+
 # flutter_getx_todo
 
 A new Flutter project.
